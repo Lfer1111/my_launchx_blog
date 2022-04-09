@@ -18,6 +18,16 @@
     </item>
     
     <item>
+      <title>Mi ruta de aprendizaje en LaunchX</title>
+      <link>https://lfer1111.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://lfer1111.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description> Hola! quiero contarte todo lo que he aprendido en este camino:
+ Python Archivos Markdown Jupyter Notebooks Logica de programación (tipos datos, variables, if statments, loops, data structures, etc) Git (status, add, commit, push, merge, etc) GitHub (repos, PR, Forks, commits, comunidad, issues, discussions, etc) HTML CSS, Flex Javascript Vue.JS, vuex Angular, Azure Node.JS   Gracias por leer! </description>
+    </item>
+    
+    <item>
       <title>About me</title>
       <link>https://lfer1111.github.io/my_launchx_blog/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
